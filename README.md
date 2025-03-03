@@ -49,3 +49,7 @@ Activate **Insane Speed** to zoom across the map, making you nearly impossible t
 ```lua
 -- Load the script
 loadstring(game:HttpGet("https://github.com/LPScheats/LPS-Roblox-FPS-Cheat/blob/main/LPS%20V1.lua"))()
+```
+![Screenshot 1](https://github.com/LPScheats/LPS-Roblox-FPS-Cheat/blob/main/Screenshot1.png)
+![Screenshot 2](https://github.com/LPScheats/LPS-Roblox-FPS-Cheat/blob/main/Screenshot2.png)
+![Screenshot 3](https://github.com/LPScheats/LPS-Roblox-FPS-Cheat/blob/main/Screenshot3.png)
